@@ -15,8 +15,6 @@ The motivation for this project was to refactor code to incorporate a very impor
 
 * I understand the importance of accessibility in code. An accessible code base, for example one that includes 'alt' attributes for images, benefits all that use the website. People with disabilites are empowered to access information like anyone else which they may not otherwhise be able to do had the code not been made accessible. 
 
-## Installation 
-
 ## Usage 
 To use this project, please access the repository examine the index.html and style.css files to see how semantic structure makes this code more accessible. 
 
