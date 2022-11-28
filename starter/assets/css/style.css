@@ -9,6 +9,7 @@ body {
 }
 
 .header {
+    /* Styles the header */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -16,15 +17,18 @@ body {
 }
 
 .header h1 {
+    /* Styles the h1 within the header */
     display: inline-block;
     font-size: 48px;
 }
 
 .header h1 .seo {
+    /* Styles specifically the .seo within the h1 within the header */
     color: #d9dcd6;
 }
 
 .header div {
+    /* Styles the the contents of the div under the header */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,10 +37,12 @@ body {
 }
 
 .header div ul {
+    /* Styles the unordered list within the header */
     list-style-type: none;
 }
 
 .header div ul li {
+    /* Styles the list items within the unordered list in the header */
     display: inline-block;
     margin-left: 25px;
 }
@@ -47,10 +53,12 @@ a {
 }
 
 p {
+    /* Styles the paragraph font size */
     font-size: 16px;
 }
 
 .background-image-styling {
+    /* Styles the background image */
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -167,13 +175,14 @@ Reducing dry code - moved "brand" and "cost" classes into one benefit class
     margin-bottom: 20px;
     font-size: 36px;
 }
-    .footer {
-        padding: 30px;
-        clear: both;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        text-align: center;
-    }
 
-    .footer h2 {
-        font-size: 20px;
-    }
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
