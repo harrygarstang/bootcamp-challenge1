@@ -18,10 +18,10 @@ The motivation for this project was to refactor code to incorporate a very impor
 ## Installation 
 
 ## Usage 
+To use this project, please access the repository examine the index.html and style.css files to see how semantic structure makes this code more accessible. 
 
+![Image of HTML code with semantic structure](assets/screenshot-readme.png)
 
-
-![Image of HTML code with semantic structure]()
 ## Credits 
 
 * https://www.w3schools.com/default.asp
